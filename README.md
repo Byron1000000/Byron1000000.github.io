@@ -73,5 +73,3 @@ I'd love to hear from you if you'd like to discuss tutoring or ask any questions
 ---
 
 *"Empowering students to achieve success through confidence, understanding, and personalised learning."*
-
-theme: jekyll-theme-minimal
