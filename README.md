@@ -1,4 +1,5 @@
 # Byron1000000.github.io
+theme: jekyll-theme-minimal
 # Byron Collins Tutoring
 
 Helping students build confidence, develop understanding, and achieve their academic goals through personalised mathematics tuition.
