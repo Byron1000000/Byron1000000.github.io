@@ -1,19 +1,5 @@
 # Byron1000000.github.io
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Website</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+# Hello World!
 
-<body>
-
-<h1>Hello World!</h1>
-
-<p>Welcome to my GitHub Pages website.</p>
-
-</body>
-</html>
-```
+Welcome to my GitHub Pages website.
