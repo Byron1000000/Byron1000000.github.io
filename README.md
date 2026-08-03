@@ -66,7 +66,7 @@ I'd love to hear from you if you'd like to discuss tutoring or ask any questions
 
 📧 **Email:** bjacollins@icloud.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/byron-collins/
+💼 **LinkedIn:** https://www.linkedin.com/in/byron-collins/
 
 **Website** https://byron1000000.github.io/wide-eyed-learning/
 
