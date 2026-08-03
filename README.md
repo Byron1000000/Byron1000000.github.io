@@ -66,9 +66,11 @@ Lessons can be tailored to suit individual learning needs and academic objective
 
 I'd love to hear from you if you'd like to discuss tutoring or ask any questions.
 
-📧 **Email:** your.email@example.com
+📧 **Email:** bjacollins@icloud.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/your-profile
+💼 **LinkedIn:** https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/byron-collins/
+
+**Website** https://byron1000000.github.io/wide-eyed-learning/
 
 ---
 
