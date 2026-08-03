@@ -1,6 +1,4 @@
-# Byron1000000.github.io
-
-# Byron Collins Tutoring
+# Wide Eyed Learning
 
 Helping students build confidence, develop understanding, and achieve their academic goals through personalised mathematics tuition.
 
